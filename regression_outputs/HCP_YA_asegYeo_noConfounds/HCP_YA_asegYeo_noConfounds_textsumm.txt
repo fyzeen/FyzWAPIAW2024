@@ -1,0 +1,544 @@
+
+FIT FOR FEATURE: FS_L_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06415781]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.004116224555271164
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.04805181]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.00259887]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 6.754127680363986e-06
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.93623945]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.07560253]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.005715742176295002
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.01978003]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.02042589]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00041721702733288346
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.52947675]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05301424]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.0028105097111562616
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.10246779]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04333142]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.001877611887181052
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.18206218]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01302091]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00016954410149416788
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.68855265]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01072568]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00011504014426311215
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.7412777]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05597033]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.003132677329223954
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.08467143]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01055547]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00011141793132352085
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.74524001]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.0668297]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.004466209158612511
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.03945397]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00833404]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 6.945626000487426e-05
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.79753491]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.03705532]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.0013730969490316491
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.25386579]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.02107789]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00044427746597797135
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.51641532]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06371876]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.004060080685989287
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.04960507]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_L_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.00184574]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 3.4067689218542085e-06
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.95469274]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05826225]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.0033944893294542977
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.07266587]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00758618]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 5.755009678176659e-05
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.8153598]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.07460639]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00556611364269799
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.02146514]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.01622351]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00026320221510123254
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.61748591]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06736673]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.004538276278296727
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.0378933]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04282186]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.001833711596193277
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.18726088]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01121271]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.0001257248488941709
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.72997804]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01288646]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.0001660608428818433
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.69160279]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06626351]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.004390852272891488
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.04115808]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00753184]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 5.6728643292203174e-05
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.81665871]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06447669]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.004157243597645022
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.04694943]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.02246347]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.0005046076749628536
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.48922219]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04958016]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.002458192486431421
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.12673851]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.01948987]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.000379854883170605
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.54851683]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04693434]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.002202832359087914
+Regression model attribute 'target_name_' has value: ['Neuroticism']
+Regression model attribute 'p_raw' has value: [[0.14831593]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
+
+FIT FOR FEATURE: FS_R_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.01827043]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [30.78960864]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'R2_score' has value: 0.00033380852832443075
+Regression model attribute 'target_name_' has value: ['Sadness']
+Regression model attribute 'p_raw' has value: [[0.57381768]]
+Regression model attribute 'model_degrees_of_freedom' has value: 948
+
