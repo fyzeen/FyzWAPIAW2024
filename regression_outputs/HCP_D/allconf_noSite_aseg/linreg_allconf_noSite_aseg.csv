@@ -1,0 +1,241 @@
+,IDP_name,regressor,coef_,p_fdr,p_raw,phenotype,confounds,Dataset,score (R2)
+0,FS_L_Thalamus-Proper,IDP (feature),0.043020597849462806,0.5817805289063542,0.3999741136231185,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014627619466866193
+1,FS_L_Thalamus-Proper,hm,0.01256926923060023,0.7868828397623426,0.7210389046561985,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014627619466866193
+2,FS_L_Thalamus-Proper,age,-0.07731386520560905,0.062490145058881626,0.029363899350656864,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014627619466866193
+3,FS_L_Thalamus-Proper,sex,-0.10872630471027314,0.013678166068112538,0.00797016624203195,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014627619466866193
+4,FS_L_Thalamus-Proper,FS_IntraCranial_Vol,0.0094389863797134,0.9351468856858487,0.8639928867428539,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014627619466866193
+5,FS_L_Thalamus-Proper,IDP (feature),-0.036055284737597594,0.6997388217233542,0.481070439934806,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012223589006965407
+6,FS_L_Thalamus-Proper,hm,0.03930690656330628,0.3099585428348969,0.264890364869494,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012223589006965407
+7,FS_L_Thalamus-Proper,age,0.09204607832616012,0.012991016659515709,0.009625119465745069,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012223589006965407
+8,FS_L_Thalamus-Proper,sex,-0.017025313541247603,0.8169520839075091,0.6775329504002778,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012223589006965407
+9,FS_L_Thalamus-Proper,FS_IntraCranial_Vol,0.004419272616519983,0.9882843992224073,0.9361565505541678,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012223589006965407
+10,FS_L_Thalamus-Proper,IDP (feature),0.028308499261281435,0.7803985933613755,0.5807563383118952,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008829667614816294
+11,FS_L_Thalamus-Proper,hm,0.034755416330708,0.3491796709826107,0.3250174614279522,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008829667614816294
+12,FS_L_Thalamus-Proper,age,-0.04792338111632149,0.2543646707969986,0.17777929688826788,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008829667614816294
+13,FS_L_Thalamus-Proper,sex,0.037583506343472926,0.41093035654677196,0.3595640619784255,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008829667614816294
+14,FS_L_Thalamus-Proper,FS_IntraCranial_Vol,-0.1003035293165956,0.1595629072080926,0.06980877190354051,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008829667614816294
+15,FS_L_Caudate,IDP (feature),0.049211708398774735,0.5817805289063542,0.24125496430015891,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015413288787389678
+16,FS_L_Caudate,hm,0.014312399280512839,0.7868828397623426,0.6845482874437137,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015413288787389678
+17,FS_L_Caudate,age,-0.07280800485466363,0.06579594724967174,0.04112246703104483,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015413288787389678
+18,FS_L_Caudate,sex,-0.10632144509413696,0.013678166068112538,0.009366913668047205,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015413288787389678
+19,FS_L_Caudate,FS_IntraCranial_Vol,0.011416633821679017,0.9351468856858487,0.811669299482888,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015413288787389678
+20,FS_L_Caudate,IDP (feature),-0.00914045030793648,0.9447254591560648,0.8279484479813779,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011691098912617215
+21,FS_L_Caudate,hm,0.03918974469297938,0.3099585428348969,0.26701279899197683,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011691098912617215
+22,FS_L_Caudate,age,0.09102907806289745,0.012991016659515709,0.010871027182620008,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011691098912617215
+23,FS_L_Caudate,sex,-0.018518592341248315,0.8169520839075091,0.6508319470044919,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011691098912617215
+24,FS_L_Caudate,FS_IntraCranial_Vol,-0.016116943376677333,0.9882843992224073,0.7370728595384519,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011691098912617215
+25,FS_L_Caudate,IDP (feature),-0.021252356109235676,0.7803985933613755,0.6138798136975092,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00876967258045569
+26,FS_L_Caudate,hm,0.03365746944301144,0.3491796709826107,0.3411147052951895,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00876967258045569
+27,FS_L_Caudate,age,-0.049568383504770504,0.2543646707969986,0.16553923963559658,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00876967258045569
+28,FS_L_Caudate,sex,0.03829349752041754,0.41093035654677196,0.3501228114684287,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00876967258045569
+29,FS_L_Caudate,FS_IntraCranial_Vol,-0.06746184662991672,0.21437634470649058,0.16078225852986794,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00876967258045569
+30,FS_L_Putamen,IDP (feature),-0.04416909414259784,0.5817805289063542,0.2834946847631461,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015149847749226342
+31,FS_L_Putamen,hm,0.011685198708385781,0.7868828397623426,0.7398688873284831,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015149847749226342
+32,FS_L_Putamen,age,-0.082055233944214,0.062490145058881626,0.021868858327088736,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015149847749226342
+33,FS_L_Putamen,sex,-0.09983537349179779,0.016062291940833306,0.016062291940833306,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015149847749226342
+34,FS_L_Putamen,FS_IntraCranial_Vol,0.06015688985080544,0.6924886730701116,0.18177347685087053,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015149847749226342
+35,FS_L_Putamen,IDP (feature),-0.05228940500218086,0.5456834966882838,0.2046313112581064,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.0135412124347557
+36,FS_L_Putamen,hm,0.03890065518531901,0.3099585428348969,0.2695641473448358,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.0135412124347557
+37,FS_L_Putamen,age,0.08587483761090572,0.016527722893592722,0.016527722893592722,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.0135412124347557
+38,FS_L_Putamen,sex,-0.009743715658378532,0.8169520839075091,0.8140693221170539,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.0135412124347557
+39,FS_L_Putamen,FS_IntraCranial_Vol,0.001949168166584187,0.9882843992224073,0.9654991525959784,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.0135412124347557
+40,FS_L_Putamen,IDP (feature),-0.042300636562557385,0.7803985933613755,0.3056743628214209,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009714321983837038
+41,FS_L_Putamen,hm,0.034003651917043055,0.3491796709826107,0.3353974538932014,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009714321983837038
+42,FS_L_Putamen,age,-0.05254690918727216,0.2543646707969986,0.142784048849941,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009714321983837038
+43,FS_L_Putamen,sex,0.04561754593158766,0.41093035654677196,0.2719683709034435,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009714321983837038
+44,FS_L_Putamen,FS_IntraCranial_Vol,-0.06099618339379151,0.2177840259403492,0.17694952107653372,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009714321983837038
+45,FS_L_Pallidum,IDP (feature),-0.05028154544108294,0.5817805289063542,0.24989043711706938,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015355015327489063
+46,FS_L_Pallidum,hm,0.010989008204623917,0.7868828397623426,0.7549171799887173,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015355015327489063
+47,FS_L_Pallidum,age,-0.07038093555148091,0.0668736898270037,0.050155267370252776,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015355015327489063
+48,FS_L_Pallidum,sex,-0.10409156974443262,0.013678166068112538,0.011113509930341436,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015355015327489063
+49,FS_L_Pallidum,FS_IntraCranial_Vol,0.06808963244907451,0.6924886730701116,0.15294431234010464,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015355015327489063
+50,FS_L_Pallidum,IDP (feature),-0.09522970968172458,0.2346271942138678,0.029328399276733474,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017249538657207908
+51,FS_L_Pallidum,hm,0.037179240119361724,0.3099585428348969,0.2905861339077158,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017249538657207908
+52,FS_L_Pallidum,age,0.10442233849082236,0.012991016659515709,0.003675323552090326,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017249538657207908
+53,FS_L_Pallidum,sex,-0.012630568533247814,0.8169520839075091,0.7573343544746414,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017249538657207908
+54,FS_L_Pallidum,FS_IntraCranial_Vol,0.031033527119973457,0.9882843992224073,0.5141812629872424,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017249538657207908
+55,FS_L_Pallidum,IDP (feature),-0.015033359423504297,0.7803985933613755,0.7316236812762895,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008606807652600135
+56,FS_L_Pallidum,hm,0.034169236033749814,0.3491796709826107,0.3335011937411769,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008606807652600135
+57,FS_L_Pallidum,age,-0.045751430017692045,0.2543646707969986,0.20418185689779467,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008606807652600135
+58,FS_L_Pallidum,sex,0.03954523885962905,0.41093035654677196,0.3355807866750704,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008606807652600135
+59,FS_L_Pallidum,FS_IntraCranial_Vol,-0.07166755945417053,0.21437634470649058,0.1338505379844268,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008606807652600135
+60,FS_L_Hippocampus,IDP (feature),0.03954988835040908,0.5817805289063542,0.39393190350420304,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014649332501586954
+61,FS_L_Hippocampus,hm,0.0133712413690165,0.7868828397623426,0.7042322255399522,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014649332501586954
+62,FS_L_Hippocampus,age,-0.07978701853152045,0.062490145058881626,0.025159293320291765,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014649332501586954
+63,FS_L_Hippocampus,sex,-0.10729515899316633,0.013678166068112538,0.008757376648255155,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014649332501586954
+64,FS_L_Hippocampus,FS_IntraCranial_Vol,0.014403641960088365,0.9351468856858487,0.7781609253360604,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014649332501586954
+65,FS_L_Hippocampus,IDP (feature),0.0032206786106640053,0.9447254591560648,0.9447254591560648,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011640790590824346
+66,FS_L_Hippocampus,hm,0.03966342965890265,0.3099585428348969,0.26102811869019527,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011640790590824346
+67,FS_L_Hippocampus,age,0.09159083042496474,0.012991016659515709,0.010315802026469756,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011640790590824346
+68,FS_L_Hippocampus,sex,-0.018384012005074484,0.8169520839075091,0.653169288671368,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011640790590824346
+69,FS_L_Hippocampus,FS_IntraCranial_Vol,-0.023605444631355294,0.9882843992224073,0.6448200508723221,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011640790590824346
+70,FS_L_Hippocampus,IDP (feature),0.026501552911082124,0.7803985933613755,0.5689191726429925,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008852833241273173
+71,FS_L_Hippocampus,hm,0.03529661959020458,0.3491796709826107,0.31784722915575103,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008852833241273173
+72,FS_L_Hippocampus,age,-0.04958391799239706,0.2543646707969986,0.16495066595935226,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008852833241273173
+73,FS_L_Hippocampus,sex,0.03852314337019562,0.41093035654677196,0.3471608294306372,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008852833241273173
+74,FS_L_Hippocampus,FS_IntraCranial_Vol,-0.09734958662476884,0.15440044313601398,0.05790016617600524,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008852833241273173
+75,FS_L_Amygdala,IDP (feature),-0.01561513254980615,0.7907764031945348,0.7413528779948764,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013918673325226782
+76,FS_L_Amygdala,hm,0.011237384176119317,0.7868828397623426,0.7505383809446604,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013918673325226782
+77,FS_L_Amygdala,age,-0.07545680983285157,0.062490145058881626,0.03515070659562092,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013918673325226782
+78,FS_L_Amygdala,sex,-0.10548020663493816,0.013678166068112538,0.01054287992244407,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013918673325226782
+79,FS_L_Amygdala,FS_IntraCranial_Vol,0.04980758484571,0.6924886730701116,0.3201740021219939,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013918673325226782
+80,FS_L_Amygdala,IDP (feature),-0.08416545336783614,0.4015218876282714,0.07528535393030089,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015379675598250042
+81,FS_L_Amygdala,hm,0.03410050201669103,0.3344191734132089,0.3344191734132089,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015379675598250042
+82,FS_L_Amygdala,age,0.10033622577594355,0.012991016659515709,0.0051036229819643175,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015379675598250042
+83,FS_L_Amygdala,sex,-0.009520888348854409,0.8169520839075091,0.8169520839075091,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015379675598250042
+84,FS_L_Amygdala,FS_IntraCranial_Vol,0.02945202363682928,0.9882843992224073,0.5562794410239926,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.015379675598250042
+85,FS_L_Amygdala,IDP (feature),0.07792912621076507,0.7803985933613755,0.10016272445717811,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011677115204850042
+86,FS_L_Amygdala,hm,0.03961340888576026,0.3491796709826107,0.2631019334363669,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011677115204850042
+87,FS_L_Amygdala,age,-0.05563182962020137,0.2543646707969986,0.12058505691633692,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011677115204850042
+88,FS_L_Amygdala,sex,0.03044586097897038,0.46009694281402624,0.46009694281402624,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011677115204850042
+89,FS_L_Amygdala,FS_IntraCranial_Vol,-0.12712879604869615,0.11995437212156634,0.011395014161953654,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011677115204850042
+90,FS_L_Accumbens-area,IDP (feature),0.09595327121858918,0.171903586359349,0.013644258039196666,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.020961779974157935
+91,FS_L_Accumbens-area,hm,0.015076400871248372,0.7868828397623426,0.6675837538858262,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.020961779974157935
+92,FS_L_Accumbens-area,age,-0.06532063139209843,0.07157558969751344,0.06710211534141886,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.020961779974157935
+93,FS_L_Accumbens-area,sex,-0.10885258314483792,0.013678166068112538,0.007643236890997329,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.020961779974157935
+94,FS_L_Accumbens-area,FS_IntraCranial_Vol,-0.00391141454507884,0.9351468856858487,0.9302655627661149,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.020961779974157935
+95,FS_L_Accumbens-area,IDP (feature),0.029049168768809263,0.6997388217233542,0.45647476747223337,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01229242756411486
+96,FS_L_Accumbens-area,hm,0.0404272277795127,0.3099585428348969,0.25173018111766154,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01229242756411486
+97,FS_L_Accumbens-area,age,0.09536199731972352,0.012991016659515709,0.007852430667299126,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01229242756411486
+98,FS_L_Accumbens-area,sex,-0.01889384246698696,0.8169520839075091,0.6441431934324844,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01229242756411486
+99,FS_L_Accumbens-area,FS_IntraCranial_Vol,-0.03489369773107487,0.9882843992224073,0.4370939938242968,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01229242756411486
+100,FS_L_Accumbens-area,IDP (feature),0.04139485402431346,0.7803985933613755,0.28931526483328307,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009801680734676688
+101,FS_L_Accumbens-area,hm,0.03576523935538681,0.3491796709826107,0.31115768803377475,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009801680734676688
+102,FS_L_Accumbens-area,age,-0.042686862412194784,0.2543646707969986,0.23385937636152798,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009801680734676688
+103,FS_L_Accumbens-area,sex,0.03789259939054846,0.41093035654677196,0.3549407976752228,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009801680734676688
+104,FS_L_Accumbens-area,FS_IntraCranial_Vol,-0.09905670449967166,0.11995437212156634,0.02777192120069616,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009801680734676688
+105,FS_L_VentralDC,IDP (feature),-0.03648518843134121,0.6434491686549398,0.4825868764912049,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01437294757838048
+106,FS_L_VentralDC,hm,0.014917006684773929,0.7868828397623426,0.6735441460235867,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01437294757838048
+107,FS_L_VentralDC,age,-0.06915312944578177,0.07157558969751344,0.0631430252882299,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01437294757838048
+108,FS_L_VentralDC,sex,-0.1066464897776456,0.013678166068112538,0.009189793856058337,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01437294757838048
+109,FS_L_VentralDC,FS_IntraCranial_Vol,0.06475502790475497,0.6924886730701116,0.229001883421736,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01437294757838048
+110,FS_L_VentralDC,IDP (feature),-0.08151716315532029,0.40944102754828865,0.11688353879406432,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014546193832038923
+111,FS_L_VentralDC,hm,0.04552536537655751,0.3099585428348969,0.19869435731780705,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014546193832038923
+112,FS_L_VentralDC,age,0.10943105848272579,0.012991016659515709,0.003322903185672743,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014546193832038923
+113,FS_L_VentralDC,sex,-0.017307594682801197,0.8169520839075091,0.6718387598157594,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014546193832038923
+114,FS_L_VentralDC,FS_IntraCranial_Vol,0.03302160083287412,0.9882843992224073,0.5394248827537655,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014546193832038923
+115,FS_L_VentralDC,IDP (feature),-0.025791652196324687,0.7803985933613755,0.6206123008199804,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008758308418036265
+116,FS_L_VentralDC,hm,0.036430531593504505,0.3491796709826107,0.30503738829044247,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008758308418036265
+117,FS_L_VentralDC,age,-0.042167991716122497,0.2582229501719593,0.2582229501719593,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008758308418036265
+118,FS_L_VentralDC,sex,0.038975313708885594,0.41093035654677196,0.3416169548652752,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008758308418036265
+119,FS_L_VentralDC,FS_IntraCranial_Vol,-0.06271159856019862,0.24601912471627552,0.24535582761532693,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008758308418036265
+120,FS_R_Thalamus-Proper,IDP (feature),-0.01971229271249306,0.7907764031945348,0.7051767215918514,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013959134783553928
+121,FS_R_Thalamus-Proper,hm,0.012198535009345637,0.7868828397623426,0.7290128278258732,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013959134783553928
+122,FS_R_Thalamus-Proper,age,-0.0775173376043869,0.062490145058881626,0.029091244959753126,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013959134783553928
+123,FS_R_Thalamus-Proper,sex,-0.10620418089926538,0.013678166068112538,0.009613674965474273,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013959134783553928
+124,FS_R_Thalamus-Proper,FS_IntraCranial_Vol,0.0547182567240134,0.6924886730701116,0.32816909511307424,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.013959134783553928
+125,FS_R_Thalamus-Proper,IDP (feature),-0.05816934740002426,0.6047788757465682,0.2645907581391236,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01310980931903738
+126,FS_R_Thalamus-Proper,hm,0.039412887229839114,0.3099585428348969,0.26336772761692506,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01310980931903738
+127,FS_R_Thalamus-Proper,age,0.09039962801871133,0.012991016659515709,0.011005891968004944,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01310980931903738
+128,FS_R_Thalamus-Proper,sex,-0.015661628051408995,0.8169520839075091,0.7021330678212769,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01310980931903738
+129,FS_R_Thalamus-Proper,FS_IntraCranial_Vol,0.020889832738842706,0.9882843992224073,0.7089776723367192,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01310980931903738
+130,FS_R_Thalamus-Proper,IDP (feature),-0.018435301604937945,0.7803985933613755,0.7241789754320211,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008615012040574022
+131,FS_R_Thalamus-Proper,hm,0.03449648747187218,0.3491796709826107,0.3286615595472726,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008615012040574022
+132,FS_R_Thalamus-Proper,age,-0.04819019703746124,0.2543646707969986,0.17568343275159792,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008615012040574022
+133,FS_R_Thalamus-Proper,sex,0.03949752345051966,0.41093035654677196,0.3360096323756192,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008615012040574022
+134,FS_R_Thalamus-Proper,FS_IntraCranial_Vol,-0.0665276002693866,0.24601912471627552,0.23583106134464837,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008615012040574022
+135,FS_R_Caudate,IDP (feature),0.059886728598854994,0.5817805289063542,0.1624331021793084,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01609603898115397
+136,FS_R_Caudate,hm,0.014099871955135727,0.7868828397623426,0.6887239374439433,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01609603898115397
+137,FS_R_Caudate,age,-0.07016215800219977,0.0668736898270037,0.049958949419886434,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01609603898115397
+138,FS_R_Caudate,sex,-0.10656918397510032,0.013678166068112538,0.009173097401087071,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01609603898115397
+139,FS_R_Caudate,FS_IntraCranial_Vol,0.003955792388599389,0.9351468856858487,0.9351468856858487,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01609603898115397
+140,FS_R_Caudate,IDP (feature),0.012029443930807236,0.9447254591560648,0.7793709908150341,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01172814516873244
+141,FS_R_Caudate,hm,0.039943400293515015,0.3099585428348969,0.2576641981905752,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01172814516873244
+142,FS_R_Caudate,age,0.09319581805724819,0.012991016659515709,0.009435657134923447,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01172814516873244
+143,FS_R_Caudate,sex,-0.018258872184395557,0.8169520839075091,0.6553736383949447,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01172814516873244
+144,FS_R_Caudate,FS_IntraCranial_Vol,-0.0288037633562213,0.9882843992224073,0.5544369159663733,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01172814516873244
+145,FS_R_Caudate,IDP (feature),-0.0030011033466341664,0.9443721918942831,0.9443721918942831,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008472681179743313
+146,FS_R_Caudate,hm,0.03445444559248187,0.3491796709826107,0.3296227754333567,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008472681179743313
+147,FS_R_Caudate,age,-0.04808628203710666,0.2543646707969986,0.1805157565842872,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008472681179743313
+148,FS_R_Caudate,sex,0.03861150177201507,0.41093035654677196,0.3461656941734268,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008472681179743313
+149,FS_R_Caudate,FS_IntraCranial_Vol,-0.07813534537933238,0.21437634470649058,0.10963511299203921,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008472681179743313
+150,FS_R_Putamen,IDP (feature),-0.038346773658678994,0.5817805289063542,0.3613550512756145,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014775117906468571
+151,FS_R_Putamen,hm,0.01055303484203007,0.7868828397623426,0.7646215122869264,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014775117906468571
+152,FS_R_Putamen,age,-0.0804211611369076,0.062490145058881626,0.02420422871721284,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014775117906468571
+153,FS_R_Putamen,sex,-0.10088555946477587,0.016020752505932025,0.015019455474311272,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014775117906468571
+154,FS_R_Putamen,FS_IntraCranial_Vol,0.05861836349888209,0.6924886730701116,0.19972121366145745,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014775117906468571
+155,FS_R_Putamen,IDP (feature),-0.042861904792745736,0.616204667073629,0.3081023335368145,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012866124600507844
+156,FS_R_Putamen,hm,0.03767268874766466,0.3099585428348969,0.28574452692996233,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012866124600507844
+157,FS_R_Putamen,age,0.08803297263707592,0.014652363051881187,0.013736590361138612,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012866124600507844
+158,FS_R_Putamen,sex,-0.011399207703889172,0.8169520839075091,0.7833157643635342,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012866124600507844
+159,FS_R_Putamen,FS_IntraCranial_Vol,-0.0010793763624668163,0.9882843992224073,0.9811705313716732,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012866124600507844
+160,FS_R_Putamen,IDP (feature),-0.03271179857864525,0.7803985933613755,0.4374492810675201,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009183917205382586
+161,FS_R_Putamen,hm,0.033097229623808684,0.3491796709826107,0.3491796709826107,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009183917205382586
+162,FS_R_Putamen,age,-0.05062790801775946,0.2543646707969986,0.15672062372316553,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009183917205382586
+163,FS_R_Putamen,sex,0.04395917474681187,0.41093035654677196,0.2899684207583828,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009183917205382586
+164,FS_R_Putamen,FS_IntraCranial_Vol,-0.06438070182126042,0.21437634470649058,0.16023348054366582,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.009183917205382586
+165,FS_R_Pallidum,IDP (feature),-0.10264765405518086,0.171903586359349,0.021487948294918624,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.02002537871076493
+166,FS_R_Pallidum,hm,0.016110382172435666,0.7868828397623426,0.6466512993550495,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.02002537871076493
+167,FS_R_Pallidum,age,-0.060089164627215017,0.09626060998845198,0.09626060998845198,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.02002537871076493
+168,FS_R_Pallidum,sex,-0.10207036656317788,0.014295876435642388,0.01250889188118709,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.02002537871076493
+169,FS_R_Pallidum,FS_IntraCranial_Vol,0.09797952500838474,0.664042813020739,0.041502675813796186,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.02002537871076493
+170,FS_R_Pallidum,IDP (feature),-0.11580668770756139,0.15251876837335843,0.009532423023334902,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01957192495297788
+171,FS_R_Pallidum,hm,0.04392470409400174,0.3099585428348969,0.21163663725198867,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01957192495297788
+172,FS_R_Pallidum,age,0.11093609186463445,0.012991016659515709,0.0021848170330651673,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01957192495297788
+173,FS_R_Pallidum,sex,-0.012670723429096758,0.8169520839075091,0.7561604220557738,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01957192495297788
+174,FS_R_Pallidum,FS_IntraCranial_Vol,0.043518601829391504,0.9882843992224073,0.36488022690140576,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01957192495297788
+175,FS_R_Pallidum,IDP (feature),-0.018806638839314344,0.7803985933613755,0.6748568292468886,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008676205435757645
+176,FS_R_Pallidum,hm,0.03525383093031001,0.3491796709826107,0.31869139290797355,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008676205435757645
+177,FS_R_Pallidum,age,-0.04463647108676718,0.2543646707969986,0.21910892390911063,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008676205435757645
+178,FS_R_Pallidum,sex,0.03956473227660675,0.41093035654677196,0.33502322088144476,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008676205435757645
+179,FS_R_Pallidum,FS_IntraCranial_Vol,-0.06940194254033702,0.21437634470649058,0.1508527344174735,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008676205435757645
+180,FS_R_Hippocampus,IDP (feature),-0.0117842799145517,0.797433330292378,0.797433330292378,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01386772762918187
+181,FS_R_Hippocampus,hm,0.011918301694668636,0.7868828397623426,0.7351847765848638,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01386772762918187
+182,FS_R_Hippocampus,age,-0.07650272583107555,0.062490145058881626,0.03145006138438933,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01386772762918187
+183,FS_R_Hippocampus,sex,-0.10727897241226445,0.013678166068112538,0.0088008531741397,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01386772762918187
+184,FS_R_Hippocampus,FS_IntraCranial_Vol,0.048156672862199136,0.6924886730701116,0.3462443365350558,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.01386772762918187
+185,FS_R_Hippocampus,IDP (feature),-0.033602174558796986,0.6997388217233542,0.4646664005172858,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012268852909008254
+186,FS_R_Hippocampus,hm,0.03861919353646797,0.3099585428348969,0.27362433392744956,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012268852909008254
+187,FS_R_Hippocampus,age,0.09334043625880403,0.012991016659515709,0.008768907960810868,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012268852909008254
+188,FS_R_Hippocampus,sex,-0.018817629568780622,0.8169520839075091,0.6454719089890872,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012268852909008254
+189,FS_R_Hippocampus,FS_IntraCranial_Vol,0.0007511531382315197,0.9882843992224073,0.9882843992224073,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012268852909008254
+190,FS_R_Hippocampus,IDP (feature),0.04737353056805743,0.7803985933613755,0.3033088150061085,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00972657794085996
+191,FS_R_Hippocampus,hm,0.03589078823202371,0.3491796709826107,0.30955570624833695,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00972657794085996
+192,FS_R_Hippocampus,age,-0.0498927478409459,0.2543646707969986,0.16114943266494253,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00972657794085996
+193,FS_R_Hippocampus,sex,0.0392704171573102,0.41093035654677196,0.33772808386100905,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00972657794085996
+194,FS_R_Hippocampus,FS_IntraCranial_Vol,-0.11131873354057446,0.11995437212156634,0.029988593030391586,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00972657794085996
+195,FS_R_Amygdala,IDP (feature),0.0228361889753917,0.761432012046804,0.6186635097880282,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014082879537251403
+196,FS_R_Amygdala,hm,0.012525294627321507,0.7868828397623426,0.7220648950352064,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014082879537251403
+197,FS_R_Amygdala,age,-0.07756883427284378,0.062490145058881626,0.02894496112596867,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014082879537251403
+198,FS_R_Amygdala,sex,-0.10944628378594254,0.013678166068112538,0.007912742172032416,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014082879537251403
+199,FS_R_Amygdala,FS_IntraCranial_Vol,0.026678015359593722,0.9351468856858487,0.589450854161476,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014082879537251403
+200,FS_R_Amygdala,IDP (feature),-0.06987186504968922,0.40944102754828865,0.1279503211088402,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014379008882785094
+201,FS_R_Amygdala,hm,0.03873786906916801,0.3099585428348969,0.2713722430333845,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014379008882785094
+202,FS_R_Amygdala,age,0.09343951841882121,0.012991016659515709,0.008542669466806485,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014379008882785094
+203,FS_R_Amygdala,sex,-0.011258165102707917,0.8169520839075091,0.784239056930401,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014379008882785094
+204,FS_R_Amygdala,FS_IntraCranial_Vol,0.02035839513002868,0.9882843992224073,0.6804287253775441,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014379008882785094
+205,FS_R_Amygdala,IDP (feature),0.06750041028131357,0.7803985933613755,0.14206420876965642,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011027711086130099
+206,FS_R_Amygdala,hm,0.035353161087254344,0.3491796709826107,0.31626468642783134,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011027711086130099
+207,FS_R_Amygdala,age,-0.049311386848718455,0.2543646707969986,0.16526462403671371,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011027711086130099
+208,FS_R_Amygdala,sex,0.03176883332707582,0.46009694281402624,0.440594951368217,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011027711086130099
+209,FS_R_Amygdala,FS_IntraCranial_Vol,-0.12038951595910376,0.11995437212156634,0.015209897138262596,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011027711086130099
+210,FS_R_Accumbens-area,IDP (feature),0.07333342302369493,0.33327156259034985,0.0624884179856906,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017887093131791487
+211,FS_R_Accumbens-area,hm,0.016618235410095567,0.7868828397623426,0.6370375498476508,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017887093131791487
+212,FS_R_Accumbens-area,age,-0.0678278565741699,0.07120799502739646,0.05785649595975961,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017887093131791487
+213,FS_R_Accumbens-area,sex,-0.10884136643449267,0.013678166068112538,0.007751264898945065,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017887093131791487
+214,FS_R_Accumbens-area,FS_IntraCranial_Vol,0.005638170117974797,0.9351468856858487,0.9003831344124804,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.017887093131791487
+215,FS_R_Accumbens-area,IDP (feature),0.02254796461506326,0.7567913252419386,0.567593493931454,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012022446167278544
+216,FS_R_Accumbens-area,hm,0.04091465242964631,0.3099585428348969,0.2469226545130221,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012022446167278544
+217,FS_R_Accumbens-area,age,0.0946465065687373,0.012991016659515709,0.008383120849654757,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012022446167278544
+218,FS_R_Accumbens-area,sex,-0.018898577775062122,0.8169520839075091,0.6441411045046195,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012022446167278544
+219,FS_R_Accumbens-area,FS_IntraCranial_Vol,-0.032166809515213377,0.9882843992224073,0.47650657761581305,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.012022446167278544
+220,FS_R_Accumbens-area,IDP (feature),0.015301267219472255,0.7803985933613755,0.6985696116750475,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00864527099928325
+221,FS_R_Accumbens-area,hm,0.03545793098340575,0.3491796709826107,0.3164278447106481,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00864527099928325
+222,FS_R_Accumbens-area,age,-0.04582003752555188,0.2543646707969986,0.2019168006221581,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00864527099928325
+223,FS_R_Accumbens-area,sex,0.03828044210605831,0.41093035654677196,0.35037296472166535,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00864527099928325
+224,FS_R_Accumbens-area,FS_IntraCranial_Vol,-0.08720345646953644,0.15440044313601398,0.054242649707074264,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.00864527099928325
+225,FS_R_VentralDC,IDP (feature),0.04566918862727118,0.5817805289063542,0.37706072164006876,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014712568076112098
+226,FS_R_VentralDC,hm,0.009551697537553295,0.7868828397623426,0.7868828397623426,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014712568076112098
+227,FS_R_VentralDC,age,-0.08533790866901504,0.062490145058881626,0.02011934236299684,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014712568076112098
+228,FS_R_VentralDC,sex,-0.10712742989843577,0.013678166068112538,0.008859778107476846,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014712568076112098
+229,FS_R_VentralDC,FS_IntraCranial_Vol,0.008836034807809591,0.9351468856858487,0.8709892396488215,cbcl_anx_dep,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.014712568076112098
+230,FS_R_VentralDC,IDP (feature),-0.007149120546614364,0.9447254591560648,0.8901656374346465,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011657703677612652
+231,FS_R_VentralDC,hm,0.039995130381729825,0.3099585428348969,0.25851731162762515,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011657703677612652
+232,FS_R_VentralDC,age,0.09311401974862331,0.012991016659515709,0.011367139577076246,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011657703677612652
+233,FS_R_VentralDC,sex,-0.018369050697828227,0.8169520839075091,0.6534262729011613,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011657703677612652
+234,FS_R_VentralDC,FS_IntraCranial_Vol,-0.01655788206297766,0.9882843992224073,0.7612427681414857,dsm5_scale1,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.011657703677612652
+235,FS_R_VentralDC,IDP (feature),-0.024088185710007627,0.7803985933613755,0.6422334816472062,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008723611469878434
+236,FS_R_VentralDC,hm,0.03597159171580838,0.3491796709826107,0.31019948234989214,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008723611469878434
+237,FS_R_VentralDC,age,-0.04336383500863483,0.2543646707969986,0.2384668788721862,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008723611469878434
+238,FS_R_VentralDC,sex,0.0386420898797913,0.41093035654677196,0.3457003331976638,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008723611469878434
+239,FS_R_VentralDC,FS_IntraCranial_Vol,-0.06333429196189591,0.24601912471627552,0.24601912471627552,upps_neg,"['hm', 'age', 'sex', 'FS_IntraCranial_Vol']",HCP_Development,0.008723611469878434
