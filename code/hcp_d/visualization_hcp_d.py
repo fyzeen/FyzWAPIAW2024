@@ -11,7 +11,7 @@ warnings.filterwarnings('ignore')
 
 
 def plopiwaw_swarm(subgroup, hue_column):
-    subgroup = subgroup[(subgroup['regressor'] == 'IDP (feature)') | (subgroup['regressor'] == 'IDP (dkt)')]
+    subgroup = subgroup[(subgroup['regressor'] == 'IDP (feature)') | (subgroup['regressor'] == 'IDP (dkt)') | (subgroup['regressor'] == 'IDP (aseg)')]
     sns.swarmplot(data=subgroup,
                   x='Yeo_name',
                   y="coef_",
@@ -53,8 +53,8 @@ def map_yeo(results, dictionary):
 # load dictionary 
 dictionary = pd.read_csv("/Users/fyzeen/FyzeenLocal/GitHub/FyzWAPIAW2024/data/structural_dictionary.csv") # originally from "/scratch/l.lexi/WAPIAW2024/Source_Code/maps/structural_dictionary.csv" 
 
-aseg_out_path = "/Users/fyzeen/FyzeenLocal/GitHub/FyzWAPIAW2024/regression_outputs/HCP_D/sexconf_aseg/linreg_sexconf_aseg.csv"
-dkt_out_path = "/Users/fyzeen/FyzeenLocal/GitHub/FyzWAPIAW2024/regression_outputs/HCP_D/sexconf_dkt/linreg_sexconf_dkt.csv"
+aseg_out_path = "/Users/fyzeen/FyzeenLocal/GitHub/FyzWAPIAW2024/regression_outputs/HCP_D/siteconf_aseg/linreg_siteconf_aseg.csv"
+dkt_out_path = "/Users/fyzeen/FyzeenLocal/GitHub/FyzWAPIAW2024/regression_outputs/HCP_D/siteconf_dkt/linreg_siteconf_dkt.csv"
 
 df = concat_aseg_dkt(aseg_out_path, dkt_out_path)
 

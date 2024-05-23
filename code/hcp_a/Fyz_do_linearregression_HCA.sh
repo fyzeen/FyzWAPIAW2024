@@ -19,7 +19,7 @@ dataset_dir="${base_dir}/Data/HCP_Aging"
 reg_script="${base_dir}/Source_Code/regression.py"
 
 # input parameters
-IDP_filepath="${dataset_dir}/aseg_yeo.csv" #dkt_yeo.csv, aseg_yeo.csv, /func_idp/Netmats/
+IDP_filepath="${dataset_dir}/dkt_yeo.csv" #dkt_yeo.csv, aseg_yeo.csv, /func_idp/Netmats/
 phenotype_filepath="${dataset_dir}/phenotypes.csv"
 confound_filepath="${exp_dir}/hcp_oa/confounds_num.csv"
 outdir="${exp_dir}/hcp_oa/Results"
@@ -38,7 +38,7 @@ echo Reg file found in: ${reg_script}
 # outname="linreg_noconf_dkt"
 # python ${reg_script} -x "${IDP_filepath}" -y "${phenotype_filepath}" -s "${sublist_filepath}" -o "${outdir}" -N "${outname}" -v
 # with conf
-outname="linreg_allconf_noSite_aseg"
+outname="linreg_siteconf_dkt"
 python ${reg_script} -x "${IDP_filepath}" -y "${phenotype_filepath}" -s "${sublist_filepath}" -c "${confound_filepath}" -C "${cnflist_filepath}" -o "${outdir}" -N "${outname}" -v
 
 conda activate

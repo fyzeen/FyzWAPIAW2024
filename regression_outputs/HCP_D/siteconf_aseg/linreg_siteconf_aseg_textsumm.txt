@@ -1,0 +1,864 @@
+
+FIT FOR FEATURE: FS_L_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00391001]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 1.5288179958217185e-05
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.024019028094141914, 'p-value': 0.8768365053547699, 'f-value': 0.023962457770811397, 'f_p-value': 0.8770177932590125}
+Regression model attribute 'p_raw' has value: [[0.90990803]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.02842704]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.0008080963516338135
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 1.2256175886465044, 'p-value': 0.26826100872201364, 'f-value': 1.224484710005628, 'f_p-value': 0.2688002470842944}
+Regression model attribute 'p_raw' has value: [[0.41060287]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.03452772]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0011921633578573232
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.28041745184645006, 'p-value': 0.5964277345014117, 'f-value': 0.27984252672671567, 'f_p-value': 0.5969447038744009}
+Regression model attribute 'p_raw' has value: [[0.31754469]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.0250465]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0006273273594157303
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.17501231351862367, 'p-value': 0.6756950899121299, 'f-value': 0.1746315483746775, 'f_p-value': 0.6761351669077322}
+Regression model attribute 'p_raw' has value: [[0.46848307]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.02563524]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.0006571654150231421
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 3.137326810060274, 'p-value': 0.07651912638685775, 'f-value': 3.1415956523084883, 'f_p-value': 0.07668280255761262}
+Regression model attribute 'p_raw' has value: [[0.45809016]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04911914]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0024126896554234056
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.008009333283826026, 'p-value': 0.9286886235907033, 'f-value': 0.0079903169912815, 'f_p-value': 0.9287944886845549}
+Regression model attribute 'p_raw' has value: [[0.15492567]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.0490933]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0024101519078534306
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.254804088710918, 'p-value': 0.6137125015898328, 'f-value': 0.25427391213771355, 'f_p-value': 0.6142143426577417}
+Regression model attribute 'p_raw' has value: [[0.15514316]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05876323]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.003453117242916637
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 6.904071004295871, 'p-value': 0.008599970036413256, 'f-value': 6.944761089710209, 'f_p-value': 0.008562007828363093}
+Regression model attribute 'p_raw' has value: [[0.08874505]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05352216]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0028646211888186945
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.004723604282345417, 'p-value': 0.9452057461880662, 'f-value': 0.004712370731421821, 'f_p-value': 0.9452872333047644}
+Regression model attribute 'p_raw' has value: [[0.12113657]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06097096]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.003717457828168902
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 1.1514891117478054, 'p-value': 0.2832376432458883, 'f-value': 1.1503229688993644, 'f_p-value': 0.2837906828002478}
+Regression model attribute 'p_raw' has value: [[0.07737603]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05784688]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.003346261465540401
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 4.118078760488276, 'p-value': 0.042427234926307365, 'f-value': 4.128526244060173, 'f_p-value': 0.042481436073934314}
+Regression model attribute 'p_raw' has value: [[0.09384237]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05278496]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0027862522131384404
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.38173766957677535, 'p-value': 0.5366747291057075, 'f-value': 0.3810010391949788, 'f_p-value': 0.5372358593174444}
+Regression model attribute 'p_raw' has value: [[0.12635342]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00143701]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 2.064992439043678e-06
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.0045690106033966504, 'p-value': 0.9461084680630291, 'f-value': 0.004558143863210879, 'f_p-value': 0.9461886192974631}
+Regression model attribute 'p_raw' has value: [[0.96682837]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00373221]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 1.392941339806164e-05
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.801077722414871, 'p-value': 0.37077134346908147, 'f-value': 0.7999318966425888, 'f_p-value': 0.37137083955975714}
+Regression model attribute 'p_raw' has value: [[0.91398847]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.03243309]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0010519054935902439
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.4707393423920577, 'p-value': 0.49264723299238466, 'f-value': 0.4698808354918045, 'f_p-value': 0.4932317967136397}
+Regression model attribute 'p_raw' has value: [[0.34780902]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04076909]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.001662118450716621
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.6642339181944324, 'p-value': 0.41506917829487855, 'f-value': 0.6631755580788227, 'f_p-value': 0.4156727125217703}
+Regression model attribute 'p_raw' has value: [[0.23786835]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05034759]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.0025348795523189027
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 3.8443306591965714, 'p-value': 0.04991444076174035, 'f-value': 3.8528203541829806, 'f_p-value': 0.04999324890358551}
+Regression model attribute 'p_raw' has value: [[0.14485061]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00532204]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 2.832415607334493e-05
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.004250551333727093, 'p-value': 0.9480177448932363, 'f-value': 0.0042404403939766315, 'f_p-value': 0.9480950696276164}
+Regression model attribute 'p_raw' has value: [[0.87759483]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.06978065]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.004869339635380832
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 3.29874043783353, 'p-value': 0.06933302854062155, 'f-value': 3.3038669199962962, 'f_p-value': 0.06947440120152396}
+Regression model attribute 'p_raw' has value: [[0.04318783]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.00162232]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 2.6319300910904175e-06
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 2.220054266784808, 'p-value': 0.1362282712178143, 'f-value': 2.2206380910224195, 'f_p-value': 0.1365534919844845}
+Regression model attribute 'p_raw' has value: [[0.96255357]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.00771726]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 5.955605062490932e-05
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.13023409685001242, 'p-value': 0.7181894426934623, 'f-value': 0.12994381666160576, 'f_p-value': 0.7185812483123512}
+Regression model attribute 'p_raw' has value: [[0.82327276]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05215039]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0027196636300017563
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.553065161179306, 'p-value': 0.4570679686266207, 'f-value': 0.5521107188448251, 'f_p-value': 0.457665032028145}
+Regression model attribute 'p_raw' has value: [[0.13098244]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.02215819]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.0004909854338409625
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.40334474011914767, 'p-value': 0.5253669296563495, 'f-value': 0.4025767874963759, 'f_p-value': 0.5259348666679748}
+Regression model attribute 'p_raw' has value: [[0.52130972]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_L_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_L_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06402803]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.004099588493016948
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.09911733089237662, 'p-value': 0.752891453581334, 'f-value': 0.09889273890494647, 'f_p-value': 0.7532408280591165}
+Regression model attribute 'p_raw' has value: [[0.06361783]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.03086158]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0009524370727717058
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.052644754118893244, 'p-value': 0.8185234939552589, 'f-value': 0.05252255570267488, 'f_p-value': 0.818786557877426}
+Regression model attribute 'p_raw' has value: [[0.37167813]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04049928]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.0016401920683168925
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.7079373995803442, 'p-value': 0.4001293967703743, 'f-value': 0.7068462530954482, 'f_p-value': 0.40073288051184097}
+Regression model attribute 'p_raw' has value: [[0.24099077]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Thalamus-Proper
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Thalamus-Proper']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05434331]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0029531951877557194
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.019530954636176046, 'p-value': 0.8888549977228035, 'f-value': 0.019484850522337244, 'f_p-value': 0.8890189874754947}
+Regression model attribute 'p_raw' has value: [[0.11552527]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.03139677]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0009857571284644928
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.0909587835078427, 'p-value': 0.7629617813057018, 'f-value': 0.09075179555301842, 'f_p-value': 0.7632983926113722}
+Regression model attribute 'p_raw' has value: [[0.36343784]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01439772]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.00020729439010958028
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 3.2875668419394826, 'p-value': 0.06980639650908842, 'f-value': 3.2926319359699496, 'f_p-value': 0.06994925487065186}
+Regression model attribute 'p_raw' has value: [[0.67690822]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Caudate
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Caudate']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.03633102]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0013199427044289225
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.006577536462149425, 'p-value': 0.9353608250688324, 'f-value': 0.006561908438614706, 'f_p-value': 0.9354568581742847}
+Regression model attribute 'p_raw' has value: [[0.2929133]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04605948]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0021214757256977634
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.770079082356472, 'p-value': 0.3801925886782046, 'f-value': 0.7689491580385758, 'f_p-value': 0.3807939440002559}
+Regression model attribute 'p_raw' has value: [[0.18231841]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.05071084]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.002571588989615403
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 5.41513619051718, 'p-value': 0.019962895949298363, 'f-value': 5.43732160724403, 'f_p-value': 0.019947286184080967}
+Regression model attribute 'p_raw' has value: [[0.14196955]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Putamen
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Putamen']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04989086]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0024890974232903984
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.10545563351188769, 'p-value': 0.7453783642045338, 'f-value': 0.10521747440391788, 'f_p-value': 0.7457371340818859}
+Regression model attribute 'p_raw' has value: [[0.1485363]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.09299969]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.00864894255995563
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.7544500015381721, 'p-value': 0.38507098086675107, 'f-value': 0.7533289634386754, 'f_p-value': 0.38567308072620043}
+Regression model attribute 'p_raw' has value: [[0.00699209]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06083174]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.003700500823005881
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 2.070665751400715, 'p-value': 0.15015596186512856, 'f-value': 2.0708405871308715, 'f_p-value': 0.15051259405983786}
+Regression model attribute 'p_raw' has value: [[0.07805611]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Pallidum
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Pallidum']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.0552649]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0030542092168224233
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.8552593581725392, 'p-value': 0.3550687359941783, 'f-value': 0.8540912423339286, 'f_p-value': 0.35566386514303217}
+Regression model attribute 'p_raw' has value: [[0.10947282]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.02662355]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0007088136110310339
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.024614674646056267, 'p-value': 0.8753310323657015, 'f-value': 0.024556718872895122, 'f_p-value': 0.8755144778934051}
+Regression model attribute 'p_raw' has value: [[0.44093727]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.02636866]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.0006953060003180855
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 1.228961068845232, 'p-value': 0.2676091806135276, 'f-value': 1.2278299998718165, 'f_p-value': 0.26814777564387576}
+Regression model attribute 'p_raw' has value: [[0.44532569]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Hippocampus
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Hippocampus']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01950032]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.0003802625458204645
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.5075719328428787, 'p-value': 0.4761918410483037, 'f-value': 0.506668508347572, 'f_p-value': 0.47678294181947745}
+Regression model attribute 'p_raw' has value: [[0.57249209]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01410035]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.00019881976050339922
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.36286569399902546, 'p-value': 0.5469189939595713, 'f-value': 0.3621573305700445, 'f_p-value': 0.5474735109844913}
+Regression model attribute 'p_raw' has value: [[0.68321598]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.04951672]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 0.002451906042240326
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 6.7542037362718155, 'p-value': 0.009352707426013886, 'f-value': 6.792787122072861, 'f_p-value': 0.00931540987267428}
+Regression model attribute 'p_raw' has value: [[0.15160834]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Amygdala
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Amygdala']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00276007]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 7.6179638534012994e-06
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.2135343186478731, 'p-value': 0.6440112328789968, 'f-value': 0.21307952860578136, 'f_p-value': 0.6444842753427089}
+Regression model attribute 'p_raw' has value: [[0.9363364]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.05069925]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.0025704140001976405
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 4.625919938150014, 'p-value': 0.03149236913662363, 'f-value': 4.640478510483599, 'f_p-value': 0.03151110356848845}
+Regression model attribute 'p_raw' has value: [[0.14206076]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.00609723]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 3.7176177937192634e-05
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 1.2290433259239184, 'p-value': 0.26759316909280717, 'f-value': 1.2279123018088907, 'f_p-value': 0.26813174827490144}
+Regression model attribute 'p_raw' has value: [[0.85993813]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_Accumbens-area
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_Accumbens-area']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01427583]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.00020379939335513075
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.04253650572244139, 'p-value': 0.8366004744740524, 'f-value': 0.04243725914467866, 'f_p-value': 0.8368386192397224}
+Regression model attribute 'p_raw' has value: [[0.67949096]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.01274165]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['cbcl_anx_dep']
+Regression model attribute 'R2_score' has value: 0.00016234969617234807
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.021445472780054153, 'p-value': 0.8835718982720416, 'f-value': 0.021394898141410785, 'f_p-value': 0.8837435076573791}
+Regression model attribute 'p_raw' has value: [[0.71231168]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[0.00630495]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['dsm5_scale1']
+Regression model attribute 'R2_score' has value: 3.975243502962744e-05
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.30596967120302243, 'p-value': 0.5801639514350334, 'f-value': 0.3053516604816219, 'f_p-value': 0.5806942333037164}
+Regression model attribute 'p_raw' has value: [[0.85521813]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
+
+FIT FOR FEATURE: FS_R_VentralDC
+Regression model attribute 'fit_intercept' has value: False
+Regression model attribute 'copy_X' has value: True
+Regression model attribute 'n_jobs' has value: None
+Regression model attribute 'positive' has value: False
+Regression model attribute 'feature_names_in_' has value: ['FS_R_VentralDC']
+Regression model attribute 'n_features_in_' has value: 1
+Regression model attribute 'coef_' has value: [[-0.06334508]]
+Regression model attribute 'rank_' has value: 1
+Regression model attribute 'singular_' has value: [28.94822965]
+Regression model attribute 'intercept_' has value: 0.0
+Regression model attribute 'target_name_' has value: ['upps_neg']
+Regression model attribute 'R2_score' has value: 0.00401259905532636
+Regression model attribute 'Breusch_Pagan_Test' has value: {'Lagrange Multiplier statistic': 0.09428484259016057, 'p-value': 0.7587989438903451, 'f-value': 0.09407065874279562, 'f_p-value': 0.7591408543174524}
+Regression model attribute 'p_raw' has value: [[0.06650212]]
+Regression model attribute 'model_degrees_of_freedom' has value: 838
+
