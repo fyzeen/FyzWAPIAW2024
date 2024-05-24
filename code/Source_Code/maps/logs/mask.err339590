@@ -1,0 +1,3 @@
+usage: netmats.py [-h] [-i NETMATS_DIR] [-d MAP_DIR] [-m MASKOUT_DIR] [-M]
+                  [-A]
+netmats.py: error: argument -i/--netmats_dir: invalid float value: '/scratch/l.lexi/WAPIAW2024/Data/UKB/data_prep/Pnetmats_Schaefer_TEST'

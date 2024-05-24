@@ -1,0 +1,62 @@
+--------------------------------------------------------------
+Begin Slurm Prologue Thu May 23 11:53:54 CDT 2024 1716483234
+Job ID:		339596
+Username:	tyoeasley
+Partition:	tier2_cpu
+End Slurm Prologue Thu May 23 11:53:54 CDT 2024 1716483234
+--------------------------------------------------------------
+sub-1002516.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1001086.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1001455.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1002315.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1003206.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1000176.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1002826.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1003313.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1000223.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+sub-1001535.txt
+netmat has shape (300, 300)
+mask has shape (300, 300)
+--------------------------------------------------------------
+Begin Slurm Epilogue Thu May 23 11:53:58 CDT 2024 1716483238
+Name                : mask
+User                : tyoeasley
+Partition           : tier2_cpu
+Nodes               : node16
+Cores               : 1
+State               : COMPLETED
+Submit              : 2024-05-23T11:53:53
+Start               : 2024-05-23T11:53:53
+End                 : 2024-05-23T11:53:56
+Reserved Walltime   : 01:55:00
+Used Walltime       : 00:00:03
+Used CPU Time       : 00:00:01
+% User (Computation):  0.00%
+% System (I/O)      :  0.00%
+Mem Reserved        : 25G
+Max Mem Used        : 0.00  (0.0)
+Max Disk Write      : 0.00  (0.0)
+Max Disk Read       : 0.00  (0.0)
+Max-Mem-Used Node   : node16
+Max-Disk-Write Node : node16
+Max-Disk-Read Node  : node16
+End Slurm Epilogue Thu May 23 11:53:58 CDT 2024 1716483238
+--------------------------------------------------------------

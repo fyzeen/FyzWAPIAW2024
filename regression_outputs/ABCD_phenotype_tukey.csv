@@ -1,0 +1,4 @@
+,group1,group2,meandiff,p-adj,lower,upper,reject
+0,cbcl_scr_dsm5_depress_r,cbcl_scr_syn_anxdep_r,-0.02,0.0,-0.023,-0.0171,True
+1,cbcl_scr_dsm5_depress_r,upps_y_ss_negative_urgency,-0.0006,0.892,-0.0035,0.0023,False
+2,cbcl_scr_syn_anxdep_r,upps_y_ss_negative_urgency,0.0195,0.0,0.0166,0.0224,True

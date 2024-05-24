@@ -1,0 +1,32 @@
+--------------------------------------------------------------
+Begin Slurm Prologue Thu May 23 11:38:55 CDT 2024 1716482335
+Job ID:		339591
+Username:	tyoeasley
+Partition:	tier2_cpu
+End Slurm Prologue Thu May 23 11:38:55 CDT 2024 1716482335
+--------------------------------------------------------------
+--------------------------------------------------------------
+Begin Slurm Epilogue Thu May 23 11:38:57 CDT 2024 1716482337
+Name                : allocation
+User                : tyoeasley
+Partition           : 
+Nodes               : node16
+Cores               : 1
+State               : FAILED
+Submit              : 2024-05-23T11:38:54
+Start               : 2024-05-23T11:38:54
+End                 : 2024-05-23T11:38:55
+Reserved Walltime   : --
+Used Walltime       : 00:00:01
+Used CPU Time       : --
+% User (Computation): --
+% System (I/O)      : --
+Mem Reserved        : 0
+Max Mem Used        : 0.00  (0.0)
+Max Disk Write      : 0.00  (0.0)
+Max Disk Read       : 0.00  (0.0)
+Max-Mem-Used Node   : node16
+Max-Disk-Write Node : node16
+Max-Disk-Read Node  : node16
+End Slurm Epilogue Thu May 23 11:38:57 CDT 2024 1716482337
+--------------------------------------------------------------

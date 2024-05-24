@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/scratch/l.lexi/WAPIAW2024/Source_Code/maps/translate/netmats.py", line 209, in <module>
+    mask_dataset(
+  File "/scratch/l.lexi/WAPIAW2024/Source_Code/maps/translate/netmats.py", line 137, in mask_dataset
+    print(f"mask has shape {mask.shape}")
+AttributeError: 'tuple' object has no attribute 'shape'

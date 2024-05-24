@@ -1,0 +1,4 @@
+,group1,group2,meandiff,p-adj,lower,upper,reject
+0,cbcl_anx_dep,dsm5_scale1,0.0292,0.0,0.0247,0.0336,True
+1,cbcl_anx_dep,upps_neg,0.0199,0.0,0.0154,0.0244,True
+2,dsm5_scale1,upps_neg,-0.0093,0.0,-0.0137,-0.0048,True

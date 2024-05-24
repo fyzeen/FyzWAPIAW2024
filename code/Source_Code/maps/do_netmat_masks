@@ -1,0 +1,22 @@
+#!/bin/bash -l
+#SBATCH --job-name=mask
+#SBATCH --account=janine_bijsterbosch
+#SBATCH --output="/scratch/l.lexi/WAPIAW2024/Source_Code/maps/logs/mask.out%j"
+#SBATCH --error="/scratch/l.lexi/WAPIAW2024/Source_Code/maps/logs/mask.err%j"
+#SBATCH --time=01:55:00
+#SBATCH --mem=25gb
+#SBATCH --partition=tier2_cpu
+
+# constants (double-check the dataset path!)
+base_dir="/scratch/l.lexi/WAPIAW2024"
+
+# path to regression code
+mask_script="${base_dir}/Source_Code/maps/translate/netmats.py"
+
+# input parameters
+input_dir="/scratch/l.lexi/WAPIAW2024/Data/UKB/data_prep/Pnetmats_Schaefer_TEST"
+maps_dir="/scratch/l.lexi/WAPIAW2024/Source_Code/maps"
+maskout_dir="/scratch/l.lexi/WAPIAW2024/Source_Code/maps/netmat_masks"
+thresh=50
+
+python ${mask_script} -i "${input_dir}" -d "${maps_dir}" -m "${maskout_dir}" -t $thresh -A

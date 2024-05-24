@@ -1,0 +1,32 @@
+--------------------------------------------------------------
+Begin Slurm Prologue Thu May 23 12:01:26 CDT 2024 1716483686
+Job ID:		339616
+Username:	hkassandra
+Partition:	tier2_cpu
+End Slurm Prologue Thu May 23 12:01:26 CDT 2024 1716483686
+--------------------------------------------------------------
+--------------------------------------------------------------
+Begin Slurm Epilogue Thu May 23 12:01:28 CDT 2024 1716483688
+Name                : allocation
+User                : hkassandra
+Partition           : 
+Nodes               : node16
+Cores               : 1
+State               : CANCELLED,FAILED
+Submit              : 2024-05-23T12:01:25
+Start               : 2024-05-23T12:01:25
+End                 : 2024-05-23T12:01:26
+Reserved Walltime   : --
+Used Walltime       : 00:00:01
+Used CPU Time       : --
+% User (Computation): --
+% System (I/O)      : --
+Mem Reserved        : 0
+Max Mem Used        : 0.00  (0.0)
+Max Disk Write      : 0.00  (0.0)
+Max Disk Read       : 0.00  (0.0)
+Max-Mem-Used Node   : node16
+Max-Disk-Write Node : node16
+Max-Disk-Read Node  : node16
+End Slurm Epilogue Thu May 23 12:01:28 CDT 2024 1716483688
+--------------------------------------------------------------

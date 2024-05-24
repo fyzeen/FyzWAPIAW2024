@@ -1,0 +1,67 @@
+﻿UKB,HCYA,HCA,HCD,ABCD,ANXPE,UKB Description,Yeo
+26514-2.0,BrainSegVol,BrainSegVol,BrainSegVol,BrainSegVol,BrainSegVol,Volume of BrainSeg (whole brain),
+26515-2.0,BrainSegVolNotVent,BrainSegVolNotVent,BrainSegVolNotVent,BrainSegVolNotVent,BrainSegVolNotVent,Volume of BrainSegNotVent (whole brain),
+26516-2.0,BrainSegVolNotVentSurf,BrainSegVolNotVentSurf,BrainSegVolNotVentSurf,BrainSegVolNotVentSurf,BrainSegVolNotVentSurf,Volume of BrainSegNotVentSurf (whole brain),
+26517-2.0,SubCortGrayVol,SubCortGrayVol,SubCortGrayVol,SubCortGrayVol,SubCortGrayVol,Volume of SubCortGray (whole brain),
+26518-2.0,TotalGrayVol,TotalGrayVol,TotalGrayVol,TotalGrayVol,TotalGrayVol,Volume of TotalGray (whole brain),
+26519-2.0,SupraTentorialVol,SupraTentorialVol,SupraTentorialVol,SupraTentorialVol,SupraTentorialVol,Volume of SupraTentorial (whole brain),
+26520-2.0,SupraTentorialVolNotVent,SupraTentorialVolNotVent,SupraTentorialVolNotVent,SupraTentorialVolNotVent,SupraTentorialVolNotVent,Volume of SupraTentorialNotVent (whole brain),
+26521-2.0,EstimatedTotalIntraCranialVol,EstimatedTotalIntraCranialVol,EstimatedTotalIntraCranialVol,EstimatedTotalIntraCranialVol,EstimatedTotalIntraCranialVol,Volume of EstimatedTotalIntraCranial (whole brain),
+26522-2.0,,,,,,Volume of VentricleChoroid (whole brain),
+26523-2.0,FS_3rdVent_Vol,FS_3rdVent_Vol,FS_3rdVent_Vol,FS_3rdVent_Vol,FS_3rdVent_Vol,Volume of 3rd-Ventricle (whole brain),
+26524-2.0,FS_4thVent_Vol,FS_4thVent_Vol,FS_4thVent_Vol,FS_4thVent_Vol,FS_4thVent_Vol,Volume of 4th-Ventricle (whole brain),
+26525-2.0,FS_5thVent_Vol,FS_5thVent_Vol,FS_5thVent_Vol,FS_5thVent_Vol,FS_5thVent_Vol,Volume of 5th-Ventricle (whole brain),
+26526-2.0,,,,,,Volume of Brain-Stem (whole brain),
+26527-2.0,CSF,CSF,CSF,CSF,CSF,Volume of CSF (whole brain),
+26528-2.0,WM-hypointensities,WM-hypointensities,WM-hypointensities,WM-hypointensities,WM-hypointensities,Volume of WM-hypointensities (whole brain),
+26529-2.0,non-WM-hypointensities,non-WM-hypointensities,non-WM-hypointensities,non-WM-hypointensities,non-WM-hypointensities,Volume of non-WM-hypointensities (whole brain),
+26530-2.0,Optic-Chiasm,Optic-Chiasm,Optic-Chiasm,Optic-Chiasm,Optic-Chiasm,Volume of Optic-Chiasm (whole brain),
+26531-2.0,CC_Posterior,CC_Posterior,CC_Posterior,CC_Posterior,CC_Posterior,Volume of CC-Posterior (whole brain),
+26532-2.0,CC_Mid_Posterior,CC_Mid_Posterior,CC_Mid_Posterior,CC_Mid_Posterior,CC_Mid_Posterior,Volume of CC-Mid-Posterior (whole brain),
+26533-2.0,CC_Central,CC_Central,CC_Central,CC_Central,CC_Central,Volume of CC-Central (whole brain),
+26534-2.0,CC_Mid_Anterior,CC_Mid_Anterior,CC_Mid_Anterior,CC_Mid_Anterior,CC_Mid_Anterior,Volume of CC-Mid-Anterior (whole brain),
+26535-2.0,CC_Anterior,CC_Anterior,CC_Anterior,CC_Anterior,CC_Anterior,Volume of CC-Anterior (whole brain),
+26552-2.0,FS_L_CortexVol,FS_L_CortexVol,FS_L_CortexVol,FS_L_CortexVol,FS_L_CortexVol,Volume of Cortex (left hemisphere),
+26553-2.0,FS_L_CerebralWhiteMatterVol,FS_L_CerebralWhiteMatterVol,FS_L_CerebralWhiteMatterVol,FS_L_CerebralWhiteMatterVol,FS_L_CerebralWhiteMatterVol,Volume of CerebralWhiteMatter (left hemisphere),
+26554-2.0,FS_L_Lateral-Ventricle,FS_L_Lateral-Ventricle,FS_L_Lateral-Ventricle,FS_L_Lateral-Ventricle,FS_L_Lateral-Ventricle,Volume of Lateral-Ventricle (left hemisphere),
+26555-2.0,FS_L_Inf-Lat-Vent,FS_L_Inf-Lat-Vent,FS_L_Inf-Lat-Vent,FS_L_Inf-Lat-Vent,FS_L_Inf-Lat-Vent,Volume of Inf-Lat-Vent (left hemisphere),
+26556-2.0,FS_L_Cerebellum-White-Matter,FS_L_Cerebellum-White-Matter,FS_L_Cerebellum-White-Matter,FS_L_Cerebellum-White-Matter,FS_L_Cerebellum-White-Matter,Volume of Cerebellum-White-Matter (left hemisphere),
+26557-2.0,FS_L_Cerebellum-Cortex,FS_L_Cerebellum-Cortex,FS_L_Cerebellum-Cortex,FS_L_Cerebellum-Cortex,FS_L_Cerebellum-Cortex,Volume of Cerebellum-Cortex (left hemisphere),
+26558-2.0,FS_L_Thalamus-Proper,FS_L_Thalamus-Proper,FS_L_Thalamus-Proper,FS_L_Thalamus-Proper,FS_L_Thalamus-Proper,Volume of Thalamus-Proper (left hemisphere),8
+26559-2.0,FS_L_Caudate,FS_L_Caudate,FS_L_Caudate,FS_L_Caudate,FS_L_Caudate,Volume of Caudate (left hemisphere),8
+26560-2.0,FS_L_Putamen,FS_L_Putamen,FS_L_Putamen,FS_L_Putamen,FS_L_Putamen,Volume of Putamen (left hemisphere),8
+26561-2.0,FS_L_Pallidum,FS_L_Pallidum,FS_L_Pallidum,FS_L_Pallidum,FS_L_Pallidum,Volume of Pallidum (left hemisphere),8
+26562-2.0,FS_L_Hippocampus,FS_L_Hippocampus,FS_L_Hippocampus,FS_L_Hippocampus,FS_L_Hippocampus,Volume of Hippocampus (left hemisphere),8
+26563-2.0,FS_L_Amygdala,FS_L_Amygdala,FS_L_Amygdala,FS_L_Amygdala,FS_L_Amygdala,Volume of Amygdala (left hemisphere),8
+26564-2.0,FS_L_Accumbens-area,FS_L_Accumbens-area,FS_L_Accumbens-area,FS_L_Accumbens-area,FS_L_Accumbens-area,Volume of Accumbens-area (left hemisphere),8
+26565-2.0,FS_L_VentralDC,FS_L_VentralDC,FS_L_VentralDC,FS_L_VentralDC,FS_L_VentralDC,Volume of VentralDC (left hemisphere),8
+26566-2.0,FS_L_vessel,FS_L_vessel,FS_L_vessel,FS_L_vessel,FS_L_vessel,Volume of vessel (left hemisphere),
+26567-2.0,FS_L_choroid-plexus,FS_L_choroid-plexus,FS_L_choroid-plexus,FS_L_choroid-plexus,FS_L_choroid-plexus,Volume of choroid-plexus (left hemisphere),
+26583-2.0,FS_R_CortexVol,FS_R_CortexVol,FS_R_CortexVol,FS_R_CortexVol,FS_R_CortexVol,Volume of Cortex (right hemisphere),
+26584-2.0,FS_R_CerebralWhiteMatterVol,FS_R_CerebralWhiteMatterVol,FS_R_CerebralWhiteMatterVol,FS_R_CerebralWhiteMatterVol,FS_R_CerebralWhiteMatterVol,Volume of CerebralWhiteMatter (right hemisphere),
+26585-2.0,FS_R_Lateral-Ventricle,FS_R_Lateral-Ventricle,FS_R_Lateral-Ventricle,FS_R_Lateral-Ventricle,FS_R_Lateral-Ventricle,Volume of Lateral-Ventricle (right hemisphere),
+26586-2.0,FS_R_Inf-Lat-Vent,FS_R_Inf-Lat-Vent,FS_R_Inf-Lat-Vent,FS_R_Inf-Lat-Vent,FS_R_Inf-Lat-Vent,Volume of Inf-Lat-Vent (right hemisphere),
+26587-2.0,FS_R_Cerebellum-White-Matter,FS_R_Cerebellum-White-Matter,FS_R_Cerebellum-White-Matter,FS_R_Cerebellum-White-Matter,FS_R_Cerebellum-White-Matter,Volume of Cerebellum-White-Matter (right hemisphere),
+26588-2.0,FS_R_Cerebellum-Cortex,FS_R_Cerebellum-Cortex,FS_R_Cerebellum-Cortex,FS_R_Cerebellum-Cortex,FS_R_Cerebellum-Cortex,Volume of Cerebellum-Cortex (right hemisphere),
+26589-2.0,FS_R_Thalamus-Proper,FS_R_Thalamus-Proper,FS_R_Thalamus-Proper,FS_R_Thalamus-Proper,FS_R_Thalamus-Proper,Volume of Thalamus-Proper (right hemisphere),8
+26590-2.0,FS_R_Caudate,FS_R_Caudate,FS_R_Caudate,FS_R_Caudate,FS_R_Caudate,Volume of Caudate (right hemisphere),8
+26591-2.0,FS_R_Putamen,FS_R_Putamen,FS_R_Putamen,FS_R_Putamen,FS_R_Putamen,Volume of Putamen (right hemisphere),8
+26592-2.0,FS_R_Pallidum,FS_R_Pallidum,FS_R_Pallidum,FS_R_Pallidum,FS_R_Pallidum,Volume of Pallidum (right hemisphere),8
+26593-2.0,FS_R_Hippocampus,FS_R_Hippocampus,FS_R_Hippocampus,FS_R_Hippocampus,FS_R_Hippocampus,Volume of Hippocampus (right hemisphere),8
+26594-2.0,FS_R_Amygdala,FS_R_Amygdala,FS_R_Amygdala,FS_R_Amygdala,FS_R_Amygdala,Volume of Amygdala (right hemisphere),8
+26595-2.0,FS_R_Accumbens-area,FS_R_Accumbens-area,FS_R_Accumbens-area,FS_R_Accumbens-area,FS_R_Accumbens-area,Volume of Accumbens-area (right hemisphere),8
+26596-2.0,FS_R_VentralDC,FS_R_VentralDC,FS_R_VentralDC,FS_R_VentralDC,FS_R_VentralDC,Volume of VentralDC (right hemisphere),8
+26597-2.0,FS_R_vessel,FS_R_vessel,FS_R_vessel,FS_R_vessel,FS_R_vessel,Volume of vessel (right hemisphere),
+26598-2.0,FS_R_choroid-plexus,FS_R_choroid-plexus,FS_R_choroid-plexus,FS_R_choroid-plexus,FS_R_choroid-plexus,Volume of choroid-plexus (right hemisphere),
+,FS_L_WM-hypointensities,FS_L_WM-hypointensities,FS_L_WM-hypointensities,FS_L_WM-hypointensities,FS_L_WM-hypointensities,,
+,FS_R_WM-hypointensities,FS_R_WM-hypointensities,FS_R_WM-hypointensities,FS_R_WM-hypointensities,FS_R_WM-hypointensities,,
+,FS_L_non-WM-hypointensities,FS_L_non-WM-hypointensities,FS_L_non-WM-hypointensities,FS_L_non-WM-hypointensities,FS_L_non-WM-hypointensities,,
+,FS_R_non-WM-hypointensities,FS_R_non-WM-hypointensities,FS_R_non-WM-hypointensities,FS_R_non-WM-hypointensities,FS_R_non-WM-hypointensities,,
+,SupraTentorialVolNotVentVox,SupraTentorialVolNotVentVox,SupraTentorialVolNotVentVox,SupraTentorialVolNotVentVox,SupraTentorialVolNotVentVox,,
+,CerebralWhiteMatterVol,CerebralWhiteMatterVol,CerebralWhiteMatterVol,CerebralWhiteMatterVol,CerebralWhiteMatterVol,,
+,MaskVol,MaskVol,MaskVol,MaskVol,MaskVol,,
+,BrainSegVol-to-eTIV,BrainSegVol-to-eTIV,BrainSegVol-to-eTIV,BrainSegVol-to-eTIV,BrainSegVol-to-eTIV,,
+,MaskVol-to-eTIV,MaskVol-to-eTIV,MaskVol-to-eTIV,MaskVol-to-eTIV,MaskVol-to-eTIV,,
+,FS_L_SurfaceHoles,FS_L_SurfaceHoles,FS_L_SurfaceHoles,FS_L_SurfaceHoles,FS_L_SurfaceHoles,,
+,FS_R_SurfaceHoles,FS_R_SurfaceHoles,FS_R_SurfaceHoles,FS_R_SurfaceHoles,FS_R_SurfaceHoles,,
+,SurfaceHoles,SurfaceHoles,SurfaceHoles,SurfaceHoles,SurfaceHoles,,

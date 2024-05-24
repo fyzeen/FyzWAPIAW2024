@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/scratch/l.lexi/WAPIAW2024/Source_Code/maps/translate/netmats.py", line 199, in <module>
+    mask_dataset(
+  File "/scratch/l.lexi/WAPIAW2024/Source_Code/maps/translate/netmats.py", line 119, in mask_dataset
+    parcel_type = parcel
+NameError: name 'parcel' is not defined. Did you mean: 'parser'?
